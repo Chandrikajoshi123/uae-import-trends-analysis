@@ -55,8 +55,7 @@ This project explores trends, detects growth opportunities, forecasts future imp
 
 **Chandrika Joshi**  
 🔗 LinkedIn:[https://www.linkedin.com/in/chandrika-j-0b1a98238/]  
-📂 Portfolio: [your-site-or-link]
-
+📂 Portfolio:
 ---
 
 ## ⭐ Star this repo if you found it useful!
